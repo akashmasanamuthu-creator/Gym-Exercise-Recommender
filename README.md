@@ -18,12 +18,6 @@ A Machine Learning web app that recommends personalized gym exercises based on y
 - Source: Kaggle - Mega Gym Dataset
 - 2886 exercises across 17 body parts
 
-## ⚙️ How to Run Locally
-git clone https://github.com/yourusername/gym-recommender.git
-cd gym-recommender
-pip install -r requirements.txt
-streamlit run app.py
-
 ## 🧠 How it Works
 1. User selects fitness preferences
 2. Input is encoded using Label Encoder
